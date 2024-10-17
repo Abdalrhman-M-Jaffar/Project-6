@@ -8,6 +8,11 @@ body, html{
 
 a{
     text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+button{
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 .scrollDownImg{
@@ -222,8 +227,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 90vh;
-    right: 5vh;
+    top: 88vh;
+    right: 3vh;
 }
 
 /* Section 2 */
@@ -241,8 +246,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 190vh;
-    right: 5vh;
+    top: 188vh;
+    right: 3vh;
 }
 
 .scrollUp2{
@@ -258,8 +263,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 191.1vh;
-    right: 13vh;
+    top: 189.1vh;
+    right: 10vh;
 }
 
 .sec2{
@@ -339,8 +344,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 290vh;
-    right: 5vh;
+    top: 288vh;
+    right: 3vh;
 }
 
 .scrollUp3{
@@ -356,8 +361,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 291.1vh;
-    right: 13vh;
+    top: 289.1vh;
+    right: 10vh;
 }
 
 /* Section 4 */
@@ -375,8 +380,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 390vh;
-    right: 5vh;
+    top: 388vh;
+    right: 3vh;
 }
 
 .scrollUp4{
@@ -392,8 +397,8 @@ a{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 391.1vh;
-    right: 13vh;
+    top: 389.1vh;
+    right: 10vh;
 }
 
 .sec4-img{
@@ -479,16 +484,16 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 35px;
-    height: 35px;
+    width: 50px;
+    height: 50px;
     background-color: white;
     border: 2px solid #333;
     border-radius: 50%;
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 491.1vh;
-    right: 13vh;
+    top: 489.1vh;
+    right: 3vh;
 }
 
 .sec5{
