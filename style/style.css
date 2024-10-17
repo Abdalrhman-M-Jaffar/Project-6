@@ -382,6 +382,7 @@ button{
     position: absolute;
     top: 388vh;
     right: 3vh;
+    z-index: 99;
 }
 
 .scrollUp4{
@@ -399,6 +400,7 @@ button{
     position: absolute;
     top: 389.1vh;
     right: 10vh;
+    z-index: 99;
 }
 
 .sec4-img{
@@ -419,6 +421,7 @@ button{
 .sec4-l-s-text{
     position: absolute;
     margin-bottom: 150px;
+    z-index: 88;
 }
 
 .sec4-head-text-ls{
@@ -492,7 +495,7 @@ button{
     text-decoration: none;
     cursor: pointer;
     position: absolute;
-    top: 489.1vh;
+    top: 488vh;
     right: 3vh;
 }
 
